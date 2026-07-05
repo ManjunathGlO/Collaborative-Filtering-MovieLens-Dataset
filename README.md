@@ -1,10 +1,15 @@
-# 🎬 Movie Recommendation System using Collaborative Filtering
+
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 5, 2026, 03_06_00 PM" src="https://github.com/user-attachments/assets/fc300309-2fb4-4421-a1b1-33294c9d1ffe" />
 
+<h3 align="center">
+  <a href="./CollaborativeFiltering.ipynb">
+    <strong>📓 View Jupyter Notebook »</strong>
+  </a>
+</h3>
 
 
-
+# 🎬 Movie Recommendation System using Collaborative Filtering
 
 ## Collaborative-Filtering-MovieLens-Dataset
 A machine learning project that implements a **Collaborative Filtering Recommendation System** using the MovieLens dataset. The project analyzes user rating behavior to identify similar users and movies, enabling personalized movie recommendations based on historical preferences
